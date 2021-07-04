@@ -1,9 +1,8 @@
 html,
 body {
-    margin          : 0;
-    padding         : 0;
-    font-family     : Arial, Helvetica, sans-serif;
-    background-color: #e35183;
+    margin     : 0;
+    padding    : 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -17,25 +16,21 @@ body {
 }
 
 .container .title {
-    font-size: 35px;
-    color    : white;
+    font-size: 28px;
 }
 
 .container .buttons {
     margin-top : 50px;
-    margin-left: -130px;
+    margin-left: -100px;
 }
 
 .container .buttons .btn {
-    position        : absolute;
-    padding         : 10px 20px;
-    font-size       : 18px;
-    background-color: #7f0000;
-    color           : white;
-    border          : none;
-    border-radius   : 3px;
+    position   : absolute;
+    padding    : 10px 15px;
+    font-size  : 14px;
+    font-weight: bold;
 }
 
 .container .buttons>#btnno {
-    margin-left: 70px;
+    margin-left: 50px;
 }
